@@ -6,5 +6,4 @@ class orang {
 public:
 	string nama;
 
-
 };
